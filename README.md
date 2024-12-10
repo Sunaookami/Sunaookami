@@ -4,7 +4,6 @@ I like **Linux**, and try to be a **profesional developer** *# (you tell me if I
 
 
 ![Sunaookami's Stats](https://github-readme-stats.vercel.app/api?username=Sunaookami&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)
-![Sunaookami's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sunaookami&theme=vision-friendly-dark&hide_border=true)
 ![Sunaookami's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunaookami&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
 
 <h3 align="left">Languages and Tools:</h3>
