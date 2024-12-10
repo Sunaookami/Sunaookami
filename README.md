@@ -1,6 +1,6 @@
 # Hello everybody
 
-I like **Linux**, and try to be a **profesional developer** * (you tell me if I am good enough to be called that).*
+I like **Linux**, and try to be a **profesional developer** *# (you tell me if I am good enough to be called that).*
 
 
 [![Sunaookami github stats](https://github-readme-stats.vercel.app/api?username=Sunaookami&show_icons=true&theme=dracula)](https://github.com/Sunaookami)
